@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JCom</string>
+    <string name="hello">Press button to log in</string>
+    <string name="log_in">Log in</string>
+    <string name="enter_your_query_here">Enter your query here</string>
+    <string name="txt_friends_no_items">У вас нет друзей</string>
+    <string name="login_error_credentials">Ошибка при попытке</string>
+    <string name="no_city">Город не указан</string>
+    <string name="frends_err_loading">Ошибка при загрузке списка друзей</string>
+    <integer name="com_vk_sdk_AppId">7387532</integer>
+</resources>
